@@ -4,9 +4,9 @@ Write a script that takes the path to the CSV-file as an argument and returns to
 
 - calculated "total profit" (accurated to the cents)
 
-- the best products by sales, by the number of sales and by profit, respectively
+- the best products by sales, by the number of sales and by profit
 
-- the worst products by sales, by the number of sales and by profit, respectively
+- the worst products by sales, by the number of sales and by profit
 
 - average delivery time of the goods to the client
 
